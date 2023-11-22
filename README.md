@@ -14,3 +14,7 @@ Create a simple todo app using Redux/Redux Toolkit
 - Whenever you UPDATE or DELETE a todo, you **MUST** send a request to the DummyJSON API then use the response to update the Todo list state.
 - Use `createAsyncThunk` for your asynchronous requests (i.e. API calls)
 - There should be no `useState` hooks
+
+## Resources:
+
+Redux Part 2 - createAsyncThunk (Nov 21) - [https://github.com/elmerdotdev/wmad-a0523-redux-part-2-code-along]
