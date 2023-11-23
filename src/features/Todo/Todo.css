@@ -9,7 +9,8 @@
   margin: 1rem 0 2rem
 }
 
-.todo__form__input {
+.todo__form__input,
+.todo__form__add {
   padding: .5rem;
   font-size: 18px;
 }
